@@ -20,9 +20,9 @@
 
 
 ### Mobile Screenshot
-<div>
-   <img src="./.github/intro.gif" width="180">
-   <img src="./.github/restoapp.gif" width="180">
+<div align="center">
+   <img src="./.github/intro.gif" width="240">
+   <img src="./.github/restoapp.gif" width="240">
 
 </div>
 
